@@ -53,14 +53,14 @@ jobs:
           # Artifact name
           name: "BigShotMonRed"
           # A file, directory or wildcard pattern that describes what to upload
-          path: "pokered.gb"
+          path: "pokered.gbc"
       - name: Upload BLUE
         uses: actions/upload-artifact@v3.1.0
         with:
           # Artifact name
           name: "BigShotMonBlue"
           # A file, directory or wildcard pattern that describes what to upload
-          path: "pokeblue.gb"
+          path: "pokeblue.gbc"
 
       - name: Discord webhook
         if: ${{ github.event_name == 'push' && github.repository_owner == 'pret' }}
