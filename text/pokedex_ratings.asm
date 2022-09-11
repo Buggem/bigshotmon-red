@@ -9,8 +9,8 @@ _DexCompletionText::
 	text_decimal hDexRatingNumMonsOwned, 1, 3
 	text " #MON owned"
 
-	para "PROF.OAK's"
-	line "Rating:"
+	para "SPAMTON's"
+	line "Rat11ng:"
 	prompt
 
 _DexRatingText_Own0To9::
@@ -22,9 +22,9 @@ _DexRatingText_Own0To9::
 
 _DexRatingText_Own10To19::
 	text "You're on the"
-	line "right track! "
+	line "wr0ng track! "
 	cont "Get a FLASH HM"
-	cont "from my AIDE!"
+	cont "from my M4M4!"
 	done
 
 _DexRatingText_Own20To29::
@@ -38,32 +38,32 @@ _DexRatingText_Own30To39::
 	text "Good, you're"
 	line "trying hard!"
 	cont "Get an ITEMFINDER"
-	cont "from my AIDE!"
+	cont "from my M4M4!"
 	done
 
 _DexRatingText_Own40To49::
 	text "Looking good!"
-	line "Go find my AIDE"
+	line "Go find my M4M4"
 	cont "when you get 50!"
 	done
 
 _DexRatingText_Own50To59::
 	text "You finally got at"
-	line "least 50 species!"
+	line "least 50 BigShot!"
 	cont "Be sure to get"
-	cont "EXP.ALL from my"
-	cont "AIDE!"
+	cont "EXP.SUS from my"
+	cont "M4M4!"
 	done
 
 _DexRatingText_Own60To69::
 	text "Ho! This is geting"
-	line "even better!"
+	line "neverzetter!"
 	done
 
 _DexRatingText_Own70To79::
 	text "Very good!"
-	line "Go fish for some"
-	cont "marine #MON!"
+	line "Go F.SH for some"
+	cont "mar1ne   !"
 	done
 
 _DexRatingText_Own80To89::
@@ -75,14 +75,14 @@ _DexRatingText_Own80To89::
 _DexRatingText_Own90To99::
 	text "I'm impressed!"
 	line "It must have been"
-	cont "difficult to do!"
+	cont "easyicult to do!"
 	done
 
 _DexRatingText_Own100To109::
-	text "You finally got at"
-	line "least 100 species!"
-	cont "I can't believe"
-	cont "how good you are!"
+	text "Y0u f1nally g0t at"
+	line "l34st 100 spec1es!"
+	cont "I can;t believe"
+	cont "how g;0d you are!"
 	done
 
 _DexRatingText_Own110To119::
@@ -92,26 +92,25 @@ _DexRatingText_Own110To119::
 	done
 
 _DexRatingText_Own120To129::
-	text "Excellent! Trade"
-	line "with friends to"
-	cont "get some more!"
+	text "ExcIllent! Trade"
+	line "with enemies to"
+	cont "get KROMER!!"
 	done
 
 _DexRatingText_Own130To139::
-	text "Outstanding!"
-	line "You've become a"
-	cont "real pro at this!"
+	text "W0A;H!"
+	line "frEE Kr0mer"
+	cont "awa1tz!"
 	done
 
 _DexRatingText_Own140To149::
-	text "I have nothing"
-	line "left to say!"
-	cont "You're the"
-	cont "authority now!"
+	text "You are such"
+	line "a BIGSHOT"
+	cont "I am so 1r2u3!"
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
-	line "entirely complete!"
-	cont "Congratulations!"
+	text "Your M4M4 is"
+	line "ent1rely c0mplete!"
+	cont "C0;graatlati ;-"
 	done
